@@ -18,20 +18,30 @@ Make sure you have Python installed. You can check your installation by running:
 python --version
 ```
 ## Installation
-  Clone this repository:
+   Clone this repository:
 ```bash
+   git clone https://github.com/your-username/image-illegal-activity-detection.git
+   cd image-illegal-activity-detection
+   Install the required Python packages:
+```
 
-  git clone https://github.com/senthilthangaiah/detecttheft.git
-  cd theftdetect
-```
-## Install the required Python packages:
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
-### Run the Streamlit app:
+## Install and Configure LLava:13B Model:
+
+You need to install the llava:13b model to analyze images. Follow these steps to set up the model:
+
+Install Ollama CLI: If you haven't installed the Ollama CLI yet, you can do so by following the instructions on the Ollama website.
+
+### Download the LLava:13B Model:
+
 ```bash
-streamlit run app.py
+Copy code
+ollama pull llava:13b
 ```
+This command will download and set up the LLava:13B model on your local machine.
+
 ## Usage
 After running the app, open your web browser and navigate to the provided local URL.
 Upload an image and click "Analyze Image" to get the analysis results.
@@ -72,4 +82,7 @@ git remote add origin https://github.com/your-username/image-illegal-activity-de
 git branch -M main
 git push -u origin main
 ```
+
+### Snapshot
+`![App Screenshot](/app.png)
 Now your project is ready and can be accessed by others through your GitHub repository!
