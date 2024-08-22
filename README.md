@@ -21,8 +21,8 @@ python --version
   Clone this repository:
 ```bash
 
-  git clone https://github.com/your-username/image-illegal-activity-detection.git
-  cd image-illegal-activity-detection
+  git clone https://github.com/senthilthangaiah/detecttheft.git
+  cd theftdetect
 ```
 ## Install the required Python packages:
 ```bash
