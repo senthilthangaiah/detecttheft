@@ -16,35 +16,31 @@ Make sure you have Python installed. You can check your installation by running:
 
 ```bash
 python --version
+```
+## Installation
+  Clone this repository:
+```bash
 
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/image-illegal-activity-detection.git
-cd image-illegal-activity-detection
-Install the required Python packages:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Streamlit app:
-bash
-Copy code
+  git clone https://github.com/your-username/image-illegal-activity-detection.git
+  cd image-illegal-activity-detection
+```
+## Install the required Python packages:
+```bash
+    pip install -r requirements.txt
+```
+### Run the Streamlit app:
+```bash
 streamlit run app.py
-Usage
+```
+## Usage
 After running the app, open your web browser and navigate to the provided local URL.
 Upload an image and click "Analyze Image" to get the analysis results.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Streamlit - For the easy-to-use app framework.
 LLava Model - For the powerful image analysis model.
-bash
-Copy code
-
-### 5. **`.gitignore`**
-To avoid committing unnecessary files, include a `.gitignore` file:
 
 ```gitignore
 # Python
@@ -52,13 +48,16 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Environment
+```
+## Environment
+```bash 
 .env
 .venv
 env/
 venv/
-6. Pushing to GitHub
+```
+# 6. Pushing to GitHub
+
 Initialize Git:
 
 Run git init in your project directory.
@@ -68,15 +67,9 @@ Create a GitHub Repository:
 
 Go to GitHub and create a new repository.
 Follow the instructions to add the remote and push your code:
-bash
-Copy code
+```bash
 git remote add origin https://github.com/your-username/image-illegal-activity-detection.git
 git branch -M main
 git push -u origin main
+```
 Now your project is ready and can be accessed by others through your GitHub repository!
-
-
-
-
-
-
