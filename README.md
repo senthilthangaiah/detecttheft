@@ -2,28 +2,25 @@
 
 This Streamlit application allows users to upload an image and detect illegal activities present in the image using the LLava model. The model analyzes the image based on a predefined query to determine if any illegal activities are visible.
 
-## Key Points in the Applications Section:
-   
-   <b> Security Monitoring:<br>
-      Emphasizes integration with surveillance systems.
-      
-   ### Content Moderation: 
-      Highlights the utility for online platforms.
-      
-   ### Law Enforcement: 
-      Notes the potential use for investigations.
-      
-   ### Forensic Analysis: 
-      Points out its use in analyzing crime scene images.
-      
-   ### Custom Compliance Checks: 
-      Describes use cases in business environments.
-      
-   ### Educational Purposes: 
-      Mentions its value as a teaching tool.
-      
+This application has several potential use cases across different domains:
 
+1. **Security Monitoring**: 
+   - The app can be integrated into security systems to automatically analyze images from surveillance cameras. It can help in detecting illegal activities such as trespassing, vandalism, or other suspicious behaviors.
 
+2. **Content Moderation**:
+   - Online platforms can use this tool to analyze user-uploaded images for illegal content, ensuring compliance with legal standards and community guidelines.
+
+3. **Law Enforcement**:
+   - Law enforcement agencies could employ this app to scan images from various sources for illegal activities, aiding in investigations and evidence collection.
+
+4. **Forensic Analysis**:
+   - Forensic teams can utilize the app to analyze images from crime scenes, identifying potential illegal activities or objects that could be relevant to a case.
+
+5. **Custom Compliance Checks**:
+   - Businesses that need to adhere to specific regulations (e.g., anti-piracy, anti-counterfeiting) can use the app to verify that images do not contain illegal or unauthorized content.
+
+6. **Educational Purposes**:
+   - The app can serve as a teaching tool in cybersecurity and AI courses, demonstrating how image analysis and machine learning models like LLava can be applied to real-world scenarios.
 ## Features
 
 - Upload an image in PNG, JPG, or JPEG format.
