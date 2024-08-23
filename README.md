@@ -4,7 +4,7 @@ This Streamlit application allows users to upload an image and detect illegal ac
 
 ## Key Points in the Applications Section:
    
-   ### Security Monitoring:
+   <b> Security Monitoring:<br>
       Emphasizes integration with surveillance systems.
       
    ### Content Moderation: 
