@@ -93,6 +93,6 @@ git push -u origin main
 ```
 
 ### Snapshot
-![screenshot](https://github.com/senthilthangaiah/youtube-kid-safe-check/blob/master/snapshot.png)
+![screenshot](https://github.com/senthilthangaiah/detecttheft/blob/master/snatch.png)
 
 Now your project is ready and can be accessed by others through your GitHub repository!
