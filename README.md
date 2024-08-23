@@ -4,22 +4,22 @@ This Streamlit application allows users to upload an image and detect illegal ac
 
 ## Key Points in the Applications Section:
    
-   Security Monitoring:
+   ### Security Monitoring:
       Emphasizes integration with surveillance systems.
       
-   Content Moderation: 
+   ### Content Moderation: 
       Highlights the utility for online platforms.
       
-   Law Enforcement: 
+   ### Law Enforcement: 
       Notes the potential use for investigations.
       
-   Forensic Analysis: 
+   ### Forensic Analysis: 
       Points out its use in analyzing crime scene images.
       
-   Custom Compliance Checks: 
+   ### Custom Compliance Checks: 
       Describes use cases in business environments.
       
-   Educational Purposes: 
+   ### Educational Purposes: 
       Mentions its value as a teaching tool.
       
 
