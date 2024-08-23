@@ -41,8 +41,8 @@ python --version
 ```bash
    git clone https://github.com/senthilthangaiah/detecttheft.git
    cd detecttheft
-   Install the required Python packages:
 ```
+ Install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
@@ -56,7 +56,7 @@ Install Ollama CLI: If you haven't installed the Ollama CLI yet, you can do so b
 ### Download the LLava:13B Model:
 
 ```bash
-Copy code
+
 ollama pull llava:13b
 ```
 This command will download and set up the LLava:13B model on your local machine.
