@@ -3,12 +3,18 @@
 This Streamlit application allows users to upload an image and detect illegal activities present in the image using the LLava model. The model analyzes the image based on a predefined query to determine if any illegal activities are visible.
 
 ## Key Points in the Applications Section:
-   Security Monitoring: Emphasizes integration with surveillance systems.
-   Content Moderation: Highlights the utility for online platforms.
-   Law Enforcement: Notes the potential use for investigations.
-   Forensic Analysis: Points out its use in analyzing crime scene images.
-   Custom Compliance Checks: Describes use cases in business environments.
-   Educational Purposes: Mentions its value as a teaching tool.
+   Security Monitoring: 
+      Emphasizes integration with surveillance systems.
+   Content Moderation: 
+      Highlights the utility for online platforms.
+   Law Enforcement: 
+      Notes the potential use for investigations.
+   Forensic Analysis: 
+      Points out its use in analyzing crime scene images.
+   Custom Compliance Checks: 
+      Describes use cases in business environments.
+   Educational Purposes: 
+      Mentions its value as a teaching tool.
 
 
 ## Features
