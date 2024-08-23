@@ -93,5 +93,6 @@ git push -u origin main
 ```
 
 ### Snapshot
-`![App Screenshot](/app.png)
+![screenshot](https://github.com/senthilthangaiah/youtube-kid-safe-check/blob/master/snapshot.png)
+
 Now your project is ready and can be accessed by others through your GitHub repository!
